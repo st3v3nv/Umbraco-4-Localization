@@ -734,7 +734,7 @@ To manage your website, simply open the umbraco back office and start adding con
     <key alias="sortPleaseWait"><![CDATA[ Please wait. Items are being sorted, this can take a while.<br/> <br/> Do not close this window during sorting]]></key>
   </area>
   <area alias="speechBubbles">
-    <key alias="contentPublishedFailedByEvent">Publising was cancelled by a 3rd party add-in</key>
+    <key alias="contentPublishedFailedByEvent">Publishing was cancelled by a 3rd party add-in</key>
     <key alias="contentTypeDublicatePropertyType">Property type already exists</key>
     <key alias="contentTypePropertyTypeCreated">Property type created</key>
     <key alias="contentTypePropertyTypeCreatedText"><![CDATA[Name: %0% <br /> DataType: %1%]]></key>
@@ -748,7 +748,7 @@ To manage your website, simply open the umbraco back office and start adding con
     <key alias="cssSavedText">Stylesheet saved without any errors</key>
     <key alias="dataTypeSaved">Datatype saved</key>
     <key alias="dictionaryItemSaved">Dictionary item saved</key>
-    <key alias="editContentPublishedFailedByParent">Publising failed because the parent page isn't published</key>
+    <key alias="editContentPublishedFailedByParent">Publishing failed because the parent page isn't published</key>
     <key alias="editContentPublishedHeader">Content published</key>
     <key alias="editContentPublishedText">and visible at the website</key>
     <key alias="editContentSavedHeader">Content saved</key>
