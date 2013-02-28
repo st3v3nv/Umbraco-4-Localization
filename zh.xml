@@ -193,8 +193,8 @@
   <area alias="editdatatype">
     <key alias="addPrevalue">添加预设值</key>
     <key alias="dataBaseDatatype">数据库数据类型</key>
-    <key alias="guid">数据类型唯一标识</key>
-    <key alias="renderControl">渲染控件</key>
+    <key alias="guid">属性编辑器唯一标识</key>
+    <key alias="renderControl">属性编辑器</key>
     <key alias="rteButtons">按钮</key>
     <key alias="rteEnableAdvancedSettings">允许高级设置</key>
     <key alias="rteEnableContextMenu">允许快捷菜单</key>
@@ -684,6 +684,8 @@
     <key alias="editContentSavedText">请发布以使更改生效</key>
     <key alias="editContentSendToPublish">提交审核</key>
     <key alias="editContentSendToPublishText">更改已提交审核</key>
+    <key alias="editMediaSaved">媒体已保存</key>
+    <key alias="editMediaSavedText">媒体已保存</key>
     <key alias="editMemberSaved">会员已保存</key>
     <key alias="editStylesheetPropertySaved">样式表属性已保存</key>
     <key alias="editStylesheetSaved">样式表已保存</key>
