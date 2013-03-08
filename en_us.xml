@@ -642,7 +642,7 @@ To manage your website, simply open the umbraco back office and start adding con
     <key alias="paIsProtected">%0% is now protected</key>
     <key alias="paIsRemoved">Protection removed from %0%</key>
     <key alias="paLoginPage">Login Page</key>
-    <key alias="paLoginPageHelp">Choose the page that has the login formular</key>
+    <key alias="paLoginPageHelp">Choose the page that has the login form</key>
     <key alias="paRemoveProtection">Remove Protection</key>
     <key alias="paSelectPages">Select the pages that contain login form and error messages</key>
     <key alias="paSelectRoles">Pick the roles who have access to this page</key>
