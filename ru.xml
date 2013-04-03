@@ -1,4 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+
+<?xml version="1.0" encoding="utf-8"?>
 <language alias="ru" intName="Russian" localName="русский" lcid="" culture="ru-RU">
   <creator>
     <name>Alexander Bryukhov (Unico Design company)</name>
@@ -103,6 +104,7 @@
     <key alias="nodeName">Заголовок страницы</key>
     <key alias="otherElements">Свойства</key>
     <key alias="parentNotPublished">Этот документ опубликован, но скрыт, потому что его родительский документ '%0%' не опубликован</key>
+    <key alias="parentNotPublishedAnomaly">ВНИМАНИЕ: этот документ опубликован, но его нет в глобальном кэше (внутренняя ошибка)</key>
     <key alias="publish">Опубликовать</key>
     <key alias="publishStatus">Состояние публикации</key>
     <key alias="releaseDate">Опубликовать</key>
@@ -198,7 +200,7 @@
     <key alias="addPrevalue">Добавить предустановленное значение</key>
     <key alias="dataBaseDatatype">Тип данных в БД</key>
     <key alias="guid">GUID типа данных</key>
-    <key alias="renderControl">Отрисовать элемент</key>
+    <key alias="renderControl">Редактор свойства</key>
     <key alias="rteButtons">Кнопки</key>
     <key alias="rteEnableAdvancedSettings">Включить расширенные настройки для</key>
     <key alias="rteEnableContextMenu">Включить контекстное меню</key>
@@ -696,6 +698,8 @@
     <key alias="editContentSavedText">Не забудьте опубликовать, чтобы сделать видимым</key>
     <key alias="editContentSendToPublish">Отослано на утверждение</key>
     <key alias="editContentSendToPublishText">Изменения отосланы на утверждение</key>
+    <key alias="editMediaSaved">Медиа-элемент сохранен</key>
+    <key alias="editMediaSavedText"></key>
     <key alias="editMemberSaved">Участник сохранен</key>
     <key alias="editStylesheetPropertySaved">Правило стиля CSS сохранено</key>
     <key alias="editStylesheetSaved">Стиль CSS сохранен</key>
@@ -880,10 +884,10 @@
     <key alias="password">Пароль</key>
     <key alias="passwordChanged">Ваш пароль доступа изменен!</key>
     <key alias="passwordConfirm">Подвердите новый пароль</key>
-		<key alias="passwordCurrent">Текущий пароль</key>
-		<key alias="passwordEnterNew">Укажите новый пароль</key>
-		<key alias="passwordInvalid">Текущий пароль указан неверно</key>
-		<key alias="passwordIsBlank">Пароль не может быть пустым</key>
+    <key alias="passwordCurrent">Текущий пароль</key>
+    <key alias="passwordEnterNew">Укажите новый пароль</key>
+    <key alias="passwordInvalid">Текущий пароль указан неверно</key>
+    <key alias="passwordIsBlank">Пароль не может быть пустым</key>
     <key alias="passwordIsDifferent">Новый пароль и его подтверждение не совпадают. Попробуйте еще раз</key>
     <key alias="passwordMismatch">Новый пароль и его подтверждение не совпадают</key>
     <key alias="permissionReplaceChildren">Заменить разрешения для дочерних документов</key>
