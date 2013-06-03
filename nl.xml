@@ -625,7 +625,9 @@ Echter, Runway biedt een gemakkelijke basis om je snel op weg te helpen. Als je 
     <key alias="editContentSavedHeader">Content opgeslagen</key>
     <key alias="editContentSavedText">Vergeet niet te publiceren om de wijzigingen zichtbaar te maken</key>
     <key alias="editContentSendToPublish">Verzend voor goedkeuring</key>
-    <key alias="editContentSendToPublishText">Verandering zijn verstuurd voor goedkeuring</key>
+    <key alias="editContentSendToPublishText">Veranderingen zijn verstuurd voor goedkeuring</key>
+    <key alias="editMediaSaved">Media opgeslagen</key>
+    <key alias="editMediaSavedText"></key>
     <key alias="editMemberSaved">Lid opgeslagen</key>
     <key alias="editStylesheetPropertySaved">Stijlsheet eigenschap opgeslagen</key>
     <key alias="editStylesheetSaved">Stijlsheet opgeslagen</key>
@@ -650,6 +652,11 @@ Echter, Runway biedt een gemakkelijke basis om je snel op weg te helpen. Als je 
     <key alias="xsltPermissionErrorText">Xslt kon niet worden opgeslagen, controleer de bestandsbeveiliging</key>
     <key alias="xsltSavedHeader">Xslt opgeslagen</key>
     <key alias="xsltSavedText">Geen fouten in de xslt!</key>
+    <key alias="contentUnpublished">Content gedepubliceerd</key>
+    <key alias="partialViewSavedHeader">Partial view opgeslagen</key>
+    <key alias="partialViewSavedText">Partial view foutloos opgeslagen!</key>
+    <key alias="partialViewErrorHeader">Partial view niet opgeslagen</key>
+    <key alias="partialViewErrorText">Er is een fout opgetreden bij het opslaan van het bestand.</key>
   </area>
   <area alias="stylesheet">
     <key alias="aliasHelp">Gebruik CSS syntax bijv: h1, .redHeader, .blueTex</key>
@@ -677,6 +684,7 @@ Echter, Runway biedt een gemakkelijke basis om je snel op weg te helpen. Als je 
     <key alias="chooseField">Selecteer veld</key>
     <key alias="convertLineBreaks">Converteer regelafbreking</key>
     <key alias="convertLineBreaksHelp"><![CDATA[Vervang regelafbrekingen met html-tag <br>]]></key>
+    <key alias="customFields">Aangepaste velden</key>
     <key alias="dateOnly">Ja, alleen datum</key>
     <key alias="formatAsDate">Opmaken als datum</key>
     <key alias="htmlEncode">HTML-encoderen</key>
@@ -690,6 +698,7 @@ Echter, Runway biedt een gemakkelijke basis om je snel op weg te helpen. Als je 
     <key alias="recursive">Recursief</key>
     <key alias="removeParagraph">Verwijder paragraaf tags</key>
     <key alias="removeParagraphHelp"><![CDATA[Alle <P> tags aan het begin en einde van de tekst worden verwijderd]]></key>
+    <key alias="standardFields">Standaard velden</key>
     <key alias="uppercase">Hoofdletters</key>
     <key alias="urlEncode">URL-encoderen</key>
     <key alias="urlEncodeHelp">Speciale karakters in URL's worden geëncodeerd</key>
@@ -716,6 +725,9 @@ Om een vertalingstaak te sluiten, ga aub naar het detailoverzicht en klik op de 
       is aangevraagd voor vertaling naar '%5%' door %2%.
 
       Ga naar http://%3%/umbraco/translation/default.aspx?id=%4% om te bewerken.
+
+      Of log in op uw umbraco CMS voor een overzicht van uw vertaaltaken
+      http://%3%/umbraco.aspx
 
       Een prettige dag!
 
