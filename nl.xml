@@ -107,6 +107,7 @@
     <key alias="titleOptional">Titel (optioneel)</key>
     <key alias="type">Type</key>
     <key alias="unPublish">Depubliceren</key>
+    <key alias="unpublish">Depubliceren</key>
     <key alias="updateDate">Laatst gewijzigd</key>
     <key alias="uploadClear">Bestand verwijderen</key>
     <key alias="urls">Link naar het document</key>
